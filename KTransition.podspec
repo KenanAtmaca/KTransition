@@ -17,13 +17,6 @@ s.ios.deployment_target = "11.0"
 
 s.source       = { :git => "https://github.com/KenanAtmaca/KTransition", :tag => "#{s.version}" }
 s.source_files  = "KTransition", "KTransition/**/*.{h,m,swift}"
-s.resources = "KTransition/**/*.{xib,png}"
-s.resource_bundles = {
-'KTransition' => [
-'KTransition/**/*.{xib,png}'
-]
-}
-
 s.swift_version = '4.2'
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2'}
 end
