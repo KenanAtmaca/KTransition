@@ -71,8 +71,15 @@ override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
    let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "OtherVC") as! OtherVC
    vc.customPresentTransition = KTransition.present(style: .bounds, duration: 0.5, startFrame: location)
    self.present(vc, animated: true, completion: nil)
-    }
+ }
 ```
+
+### Animate styles
+- [X] Alpha
+- [X] Scale
+- [X] Top
+- [X] Left
+- [X] Bounds
 
 ## License
 Usage is provided under the [MIT License](http://http//opensource.org/licenses/mit-license.php). See LICENSE for the full details.
