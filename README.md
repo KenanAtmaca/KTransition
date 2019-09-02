@@ -1,5 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/16580898/64104768-8e172b80-cd7d-11e9-8480-73adb71f5315.png" width="100%">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/16580898/64104768-8e172b80-cd7d-11e9-8480-73adb71f5315.png" width="80%">
+</p>
 
 <br><p align="center">
 <img src="https://user-images.githubusercontent.com/16580898/64100900-48eefb80-cd75-11e9-94ea-7da53c6b1f1a.gif" width="15%"/> 
